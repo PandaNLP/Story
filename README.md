@@ -1,1 +1,5 @@
-# Story
+# The story of PandaNLP
+
+This project is derived from my researching work. I'm supposed to be dedicated to the study of the detection of sensitive content, but it's hard to get an apppropriate dataset for the work. After a long talk with one of my classmates, I decide to create a new dataset for my study work then open it to my peers who are working on Chinese tasks in the world.
+
+The name PandaNLP is come from my hometown and my research work. My hometown is SiChuan province of China. When I was in Germany, there always was some people asking me where are from. When they get the answer "SiChuan Province of China", the puzzled look is always emerged from their lovely faces. Sure, they don't know where is Sichuan province even I tell them. Suddenly I had an idea for it, they don't know Sichuan province but they love Pandas. Panda is the  mascot of Sichuan province, they can image the hometown of Pandas rather than Sichuan provice, so I told them I'm from Sichuan provice, the hometown of Pandas. Adding the study work of NLP, the name PandaNLP is come out of my brain, spantaneously I have it.
